@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "LIFE-PINK-FRONT",
+        "price": 30,
+        "image": "images/hoodie.png"
+    },
+    {
+        "id": 2,
+        "name": "LIFE-PINK-BACK",
+        "price": 30,
+        "image": "images/axthood.JPEG"
+    },
+    {
+        "id": 3,
+        "name": "ANTI-BEKSLOY-BACK",
+        "price": 30,
+        "image": "images/fearofbeksloy.png"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "BABY DEVIL-BACK",
+        "price": 23,
+        "image": "images/backdevil.png"
+    },
+    {
+        "id": 5,
+        "name": "BABY DEVIL-FRONT",
+        "price": 23,
+        "image": "images/babydevil.jpg"
+    },
+    {
+        "id": 6,
+        "name": "ANTI-BEKSLOY-FRONT",
+        "price": 23,
+        "image": "images/fearofbekfront.png"
+    },
+    {
+        "id": 6,
+        "name": "ANTI-BEKSLOY-FRONT",
+        "price": 23,
+        "image": "images/fearofbekfront.png"
+    },
+    {
+        "id": 6,
+        "name": "ANTI-BEKSLOY-FRONT",
+        "price": 23,
+        "image": "images/fearofbekfront.png"
+    }
+]
